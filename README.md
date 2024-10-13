@@ -11,4 +11,5 @@ Let's see what the time brings ⚡
 
 ⚡ Fun fact: At the desk I master the calm, but on the field i explode --> American Football Player. 
 
-![image](https://github.com/user-attachments/assets/41594cea-2af7-4af8-9227-d2f2763e6ac6)
+![image](https://github.com/user-attachments/assets/41594cea-2af7-4af8-9227-d2f2763e6ac6)![image](https://github.com/user-attachments/assets/0cad044b-5f86-4517-ab45-80baac3b8160)
+
