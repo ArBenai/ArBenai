@@ -1,16 +1,14 @@
-## Hi there 👋
+Hey My Name is Arben and who loves to achieve a lot and enjoys taking on challenges. Nice to meet you.
+My most interesting challenge at the moment is learning programming and perfecting it. ✨
 
-<!--
-**ArBenai/ArBenai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let's see what the time brings ⚡
 
-Here are some ideas to get you started:
+🔭 I’m currently working on my daily tasks.
+  
+🌱 I’m currently learning some new skills with AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about everything what you like to know
+
+⚡ Fun fact: At the desk I master the calm, but on the field i explode --> American Football Player. 
+
+discord
