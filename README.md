@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **daily tasks** everyday also Weekends 
 
-- 🌱 I’m currently learning **some new Skills with AI**
+- 🌱 I’m currently learning **some new Skills**
 
 - 💬 Ask me about **everything what you like to know**
 
