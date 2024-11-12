@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arben</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbenai" alt="arbenai" /></a> </p>
-
 - 🔭 I’m currently working on **daily tasks** everyday also Weekends 
 
 - 🌱 I’m currently learning **some new Skills**
