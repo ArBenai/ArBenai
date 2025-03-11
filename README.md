@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **everything what you like to know**
 
-- ⚡ Fun fact **At the desk I master the calm, but on the field i explode --> American Football Player.**
+- ⚡ Fun fact **not a typical programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
