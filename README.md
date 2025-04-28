@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arben</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
-
-- 🔭 I’m currently working on **daily tasks** everyday also Weekends 
-
-- 🌱 I’m currently learning **some new Skills**
-
-- 💬 Ask me about **everything what you like to know**
-
-- ⚡ Fun fact **not a typical programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
